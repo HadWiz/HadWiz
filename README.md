@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hadi 👋
 
-<!--
-**HadWiz/HadWiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the Open University of Israel with strong interests in Machine Learning, Deep Learning, and Computer Vision.
 
-Here are some ideas to get you started:
+I enjoy building projects that combine mathematical foundations with practical AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+• Machine Learning  
+• Deep Learning  
+• Computer Vision  
+• Algorithms and mathematical foundations of AI  
+
+## Tech
+Python • PyTorch • OpenCV • Scikit-learn • NumPy • Git
+
+## Selected Projects
+• [DeepFake Detection](https://github.com/HadWiz/deepfake-detection) – Computer vision pipeline for detecting DeepFake images.
