@@ -15,3 +15,4 @@ Python • PyTorch • OpenCV • Scikit-learn • NumPy • Git
 
 ## Selected Projects
 • [DeepFake Detection](https://github.com/HadWiz/deepfake-detection) – Computer vision pipeline for detecting DeepFake images.
+• [Local LLM Telegram Assistant](https://github.com/HadWiz/local-llm-telegram-assistant) — AI Telegram assistant powered by a locally hosted LLM (Ollama) with persistent memory and productivity tools including reminders, notes, and todo management.
